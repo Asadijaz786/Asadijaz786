@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/Asadijaz786?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Asadijaz786"><img src="https://github-readme-stats.vercel.app/api?username=Asadijaz786&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="Asad's GitHub stats" /></a>
+<a href="http://www.github.com/Asadijaz786"><img src="https://github-readme-stats.vercel.app/api?username=Asadijaz786&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=#fff&hide_border=true&show_icons=true" alt="Asad's GitHub stats" /></a>
 
 <a href="http://www.github.com/Asadijaz786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadijaz786&stroke=ffffff&background=22272e&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
