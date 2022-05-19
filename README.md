@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Asadijaz786?logo=github&style=for-t
 
 <a href="http://www.github.com/Asadijaz786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Asadijaz786&stroke=ffffff&background=fff&ring=facc15&fire=facc15&currStreakNum=27272e&currStreakLabel=facc15&sideNums=27272e&sideLabels=27272e&dates=27272e&hide_border=true" /></a>
 
-<a href="http://www.github.com/Asadijaz786"><img src="https://activity-graph.herokuapp.com/graph?username=Asadijaz786&bg_color=fff&color=27272e&line=27272e&point=ffffff&area_color=fff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Asadijaz786"><img src="https://activity-graph.herokuapp.com/graph?username=Asadijaz786&bg_color=fff&color=27272e&line=F0F8FF&point=27272e&area_color=fff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Asadijaz786" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadijaz786&langs_count=10&title_color=facc15&text_color=27272e&icon_color=27272e&bg_color=fff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
