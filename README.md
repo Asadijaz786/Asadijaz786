@@ -12,7 +12,7 @@ Front-End Developer
 
 
 <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Asad_099?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"
+src="https://img.shields.io/twitter/follow/Asad_js?logo=twitter&style=for-the-badge&color=ffffff&labelColor=22272e"
 /></a><a href="https://www.github.com/Asad_099" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Asadijaz786?logo=github&style=for-the-badge&color=ffffff&labelColor=22272e" /></a>
 ### Skills
