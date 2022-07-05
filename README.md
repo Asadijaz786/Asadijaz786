@@ -2,11 +2,10 @@ Hi There 👋
 My name is Asad Ijaz
 ================================
 
-Front-End Developer
--------------------
+Android App Developer
+---------------------
 
 * 🌍  I'm based in Pakistan 
-* 🧠  I'm learning JavaScript and React!
 * 🖥️  See my portfolio at [PersonalPortfolio]()
 * ✉️  You can contact me at [ijazasad20@gmail.com](mailto:ijazasad20@gmail.com)
 
@@ -18,15 +17,20 @@ src="https://img.shields.io/github/followers/Asadijaz786?logo=github&style=for-t
 ### Skills
 
 <p align="left">
+  
+<a href="https://android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="Android" /></a>
+<a href="https://android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://android.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
+<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Asadijaz786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/asad-ijaz-b9b8b1170//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Asadijaz_099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://codepen.io/asadijaz786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Asadijaz786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/asad-ijaz-b9b8b1170//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Asadijaz_099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
